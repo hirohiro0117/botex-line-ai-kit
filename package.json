@@ -1,0 +1,14 @@
+{
+  "name": "botex-line-ai-kit",
+  "version": "1.0.0",
+  "description": "AI×LINE自動対応Bot導入パッケージ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.0",
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
